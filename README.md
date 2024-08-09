@@ -53,3 +53,9 @@ Note
 - **Test Date:** August 9, 2024
 
 
+## Software Design Review (SDR)
+- **Architecture:** The project follows a modular structure with separate files for routes, middleware, and data handling.
+- **Design Patterns:** Basic CRUD operations implemented using Express.js.
+- **Key Components:**
+  - **Express.js:** For handling routing and HTTP requests.
+  - **Middleware:** Logging middleware for request tracking.
